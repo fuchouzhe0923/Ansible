@@ -1,4 +1,8 @@
+github.com/fuchouzhe0923/Ansible
+
+
 Git init, config, status
 Git diff, add, commit
 Git push origin main/master
-github.com/fuchouzhe0923/Ansible
+
+Git commit -m "must add this -m switch in order to push the added file to server"
